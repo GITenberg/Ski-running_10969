@@ -1,0 +1,26 @@
+_repo: Ski-running_10969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Furse, Katharine
+    alias: Symonds, Katharine
+    birthdate: 1875
+    deathdate: 1952
+    gutenberg_agent_id: '3775'
+    url: http://www.gutenberg.org/2009/agents/3775
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Furse
+description: Cover -- Contents.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Skis and skiing'
+- !lcc 'GV'
+- GITenberg
+title: Ski-running
+url: http://www.gutenberg.org/ebooks/10969
